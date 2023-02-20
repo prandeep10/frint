@@ -165,7 +165,7 @@ align-items: center;
 /* Stats Section Responsiveness  */
 @media(max-width:600px){
     .statistics .stats-container div{
-        font-size: 0.9em;
+        font-size: 0.7em;
         height: 100px;
         box-shadow: none;
         border: 1px solid rgba(210, 210, 210, 0.278);
